@@ -3,6 +3,10 @@
 <!--
 **Siddhartha0007/Siddhartha0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+<a href="T" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fartificial-intelligence%2Fartificial-intelligence&psig=AOvVaw0DH3uqFZqV1AEQqRZtU51R&ust=1667717708742000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNDrpN-6lvsCFQAAAAAdAAAAABAP)" height="100" /></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
